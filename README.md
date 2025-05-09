@@ -24,12 +24,12 @@ This project is a conversational Q&A web application built using Streamlit and p
 
 ->Upon clicking "Ask the question", the app:
 
-   o Initializes a Gemini chat session (if not already started),
+    o Initializes a Gemini chat session (if not already started),
 
-   o Sends the question to the Gemini model,
+    o Sends the question to the Gemini model,
 
-   o Streams and displays the response in real-time,
+    o Streams and displays the response in real-time,
 
-   o Stores both question and answer in a chat history section.
+    o Stores both question and answer in a chat history section.
 
 ->All interactions are retained until the session ends.
